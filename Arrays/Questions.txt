@@ -1,0 +1,9 @@
+
+
+
+
+
+
+4) Find the smallest number in an array.
+
+5) Take an input array and then print the reverse of the array.
