@@ -24,12 +24,13 @@ public class Even_num_search {
 
     // iteration
     static int even(int[] nums){
+        // in leetcode use .size()
             if(nums.length==0){
                 return 0;
             }
             // count of even numbers
           int count=0;  
-          
+        //   use nums.size()
         for(int i=0; i<nums.length; i++){
             // count of digits of individual number
             int digitsOfNums=0;
